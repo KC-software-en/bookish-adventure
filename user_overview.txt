@@ -1,0 +1,28 @@
+The following report is from data gathered on users created.
+____________________________________________________________________________________________________
+
+The total number of users registered with task_manager.py:
+1
+
+The total number of tasks that have been generated and tracked using the task_manager.py:
+2
+
+====================================================================================================
+
+-admin-
+
+The total number of tasks assigned to admin:
+2
+
+The percentage of the total number of tasks assigned to admin:
+100.0%
+
+The percentage of admin's tasks which are complete:
+0.0%
+
+The percentage of admin's tasks which are incomplete:
+100.0%
+
+The percentage of admin's tasks that are overdue:
+100.0%
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
