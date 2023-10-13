@@ -1,0 +1,20 @@
+The following report is from data gathered on tasks created.
+____________________________________________________________________________________________________
+
+The total number of tasks that have been generated and tracked using the task_manager.py:
+2
+
+The total number of completed tasks:
+0
+
+The total number of incomplete tasks:
+2
+
+The total number of tasks that haven’t been completed and that are overdue:
+2
+
+The percentage of tasks that are incomplete:
+100.0%
+
+The percentage of tasks that are overdue:
+100.0%
