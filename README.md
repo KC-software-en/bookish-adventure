@@ -84,7 +84,7 @@ In summary, this project facilitates the learning of essential programming conce
 
 ## Use the Command Prompt
 1. Check that Docker desktop was successfully installed: `docker run hello-world`
-1. Build the docker image: `docker build -t task_manager .` 
+1. Build the docker image: `docker build -t task_manager ./` 
 1. Run the docker image: `docker run -it task_manager`
 1. Deactivate the Virtual Environment: `deactivate`
 
